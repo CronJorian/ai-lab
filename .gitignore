@@ -150,4 +150,4 @@ dmypy.json
 mlruns
 
 ### Download folder ###
-./download/
+download/
