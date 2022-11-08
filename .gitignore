@@ -148,3 +148,6 @@ dmypy.json
 
 # MLflow: ignore mlruns directory
 mlruns
+
+### Download folder ###
+./download/
